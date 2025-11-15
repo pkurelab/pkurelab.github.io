@@ -110,366 +110,352 @@ Honors & awards:
 <br>
 <br>
 
-<p style="font-weight:bold">PhD students</p>
-<p style="font-weight:bold">Yuqi Song (yqsong@stu.pku.edu.cn)</p>    
+<p style="font-weight:bold">Postdocs</p>
+<p style="font-weight:bold">Asadilla Yusup (asadilla@pku.edu.cn)</p>
     <table>
         <tbody>
             <tr>
-                <td style="width:100px;" rowspan="3">
-                    <div align=center>
-                    <img src="{{site.url}}/imgs/people/Yuqi_Song.jpg" width="200" >
-                    </div>
+                <td colspan="3">
+                     Education
                 </td>
+            </tr>
+            <tr>
+                <td> 2018-2023 </td>
+                <td> Ph.D. </td>
+                <td> Ecology, Xinjiang University </td>
+            </tr>
+            <tr>
+                <td> 2013-2016 </td>
+                <td> M.S. </td>
+                <td> Geography, Xinjiang Normal University </td>
+            </tr>
+            <tr>
+                <td> 2008-2013 </td>
+                <td> B.S. </td>
+                <td> Geology, Xinjiang University </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+     <br>
+     - LiDAR applications in forest ecology
+    <br>
+     - Desert riparian forest ecosystem
+<br>
+<br>
+<br>
+
+<p style="font-weight:bold">Qinwei Ran (qwran@pku.edu.cn)</p>
+    <table>
+        <tbody>
+            <tr>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
+            <tr>
+                <td> 2016-2023 </td>
+                <td> Ph.D. </td>
+                <td> Ecology, University of Chinese Academy of Sciences; CNRS &amp; Paris Observatory </td>
+            </tr>
+            <tr>
+                <td> 2012-2016 </td>
+                <td> B.A. </td>
+                <td> Geography, Beijing Forestry University </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - Wetland and forest ecology
+<br>
+<br>
+<br>
+
+<p style="font-weight:bold">PhD students</p>
+<p style="font-weight:bold">Xiaomei Hu (huxm9@stu.pku.edu.cn)</p>
+    <table>
+        <tbody>
+            <tr>
                 <td colspan="3">
                      Education
                 </td>
             </tr>
             <tr>
                 <td> 2022- </td>
-                <td> Ph.D. </td>  
-                <td> Physical Geography </td> 
-                <td> Peking University </td> 
+                <td> Ph.D. </td>
+                <td> Ecology, Peking University </td>
             </tr>
-            <tr>   
+            <tr>
+                <td> 2020-2022 </td>
+                <td> M.E. </td>
+                <td> Resources and Environmental Engineering, Sun Yat-sen University </td>
+            </tr>
+            <tr>
+                <td> 2016-2020 </td>
+                <td> B.E. </td>
+                <td> Geomatics, Hebei University of Technology </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - Deep learning
+    <br>
+     - Ecological remote sensing (LiDAR)
+<br>
+<br>
+<br>
+
+<p style="font-weight:bold">Hao Bai (haobai@stu.pku.edu.cn)</p>
+    <table>
+        <tbody>
+            <tr>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
+            <tr>
+                <td> 2023- </td>
+                <td> Ph.D. </td>
+                <td> Ecology, Peking University </td>
+            </tr>
+            <tr>
+                <td> 2019-2023 </td>
+                <td> B.Ag. </td>
+                <td> Forestry, Northwest A&amp;F University </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - LiDAR and Radar applications in ecology
+    <br>
+     - Machine learning and big data analysis in ecology
+<br>
+<br>
+<br>
+
+<p style="font-weight:bold">Lijun Wang (ljwang@stu.pku.edu.cn)</p>
+    <table>
+        <tbody>
+            <tr>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
+            <tr>
+                <td> 2024- </td>
+                <td> Ph.D. </td>
+                <td> Ecology, Peking University </td>
+            </tr>
+            <tr>
+                <td> 2021-2024 </td>
+                <td> M.E. </td>
+                <td> Surveying and Mapping Science and Technology, Southwest Jiaotong University </td>
+            </tr>
+            <tr>
+                <td> 2017-2021 </td>
+                <td> B.E. </td>
+                <td> Remote Sensing Science and Technology, Southwest Jiaotong University </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - Time-series InSAR processing
+    <br>
+     - Urban land subsidence
+    <br>
+     - Microwave remote sensing
+<br>
+<br>
+<br>
+
+<p style="font-weight:bold">Ziyan Yang (yangziyan@stu.pku.edu.cn)</p>
+    <table>
+        <tbody>
+            <tr>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
+            <tr>
+                <td> 2024- </td>
+                <td> Ph.D. </td>
+                <td> Physical Geography, Peking University </td>
+            </tr>
+            <tr>
+                <td> 2020-2024 </td>
+                <td> B.S. </td>
+                <td> GIS, Beijing Forestry University </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - Ecological remote sensing (LiDAR)
+<br>
+<br>
+<br>
+
+<p style="font-weight:bold">Bang Sun (bsun25@stu.pku.edu.cn)</p>
+    <table>
+        <tbody>
+            <tr>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
+            <tr>
+                <td> 2025- </td>
+                <td> Ph.D. </td>
+                <td> Ecology, Peking University </td>
+            </tr>
+            <tr>
+                <td> 2022-2025 </td>
+                <td> M.S. </td>
+                <td> Cartography and Geographical Information Engineering, Beijing Normal University </td>
+            </tr>
+            <tr>
                 <td> 2018-2022 </td>
-                <td> B.S. </td>     
-                <td> Science and Technology of Remote Sensing </td> 
-                <td> Wuhan University </td> 
-            </tr>
-        </tbody>
-    </table>
-    <br>
-     Research interests:
-     <br>
-     - Permafrost
-    <br>
-     - Landslides
-    <br>
-     - Machine learning in remote sensing big data analysis
-<br>
-<br>
-<br>
-
-<p style="font-weight:bold">Yongxuan Ran (yongxuan@stu.pku.edu.cn) </p>
-    <table>
-        <tbody>
-            <tr>
-                <td style="width:100px;" rowspan="3">
-                    <div align=center>
-                    <img src="{{site.url}}/imgs/people/Yongxuan.jpg" width="200" >
-                    </div>
-                </td>
-                <td colspan="3">
-                     Education
-                </td>
-            </tr>
-            <tr>  
-                <td> 2023- </td>
-                <td> Ph.D. </td> 
-                <td> Physical Geography </td> 
-                <td> Peking University </td> 
-            </tr>
-            <tr>          
-                <td> 2019-2023 </td>
-                <td> B.S. </td> 
-                <td> Instrument of Remote Sensing </td> 
-                <td> Wuhan University </td> 
+                <td> B.S. </td>
+                <td> Surveying and Mapping Engineering, China University of Geosciences (Beijing) </td>
             </tr>
         </tbody>
     </table>
     <br>
      Research interests:
     <br>
-     - Coastal floods and inundation amid climate change
-     <br>
-     - InSAR and GNSS data processing
+     - Deep learning
+    <br>
+     - Ecological remote sensing (LiDAR)
+    <br>
+     - Vegetation function simulation
 <br>
 <br>
 <br>
 
-<p style="font-weight:bold">Yiling Lin (yllin@stu.pku.edu.cn; https://github.com/YilingLin0610/; transfer from a Master to a Ph.D. program, and will officially start her Ph.D. program in 2026)</p>
+<p style="font-weight:bold">Undergraduate students</p>
+<p style="font-weight:bold">Zhanyi Wu (wuzhanyi@stu.pku.edu.cn)</p>
     <table>
         <tbody>
             <tr>
-                <td style="width:100px;" rowspan="3">
-                    <div align=center>
-                    <img src="{{site.url}}/imgs/people/Yiling.jpg" width="200" >
-                    </div>
-                </td>
-                <td colspan="3">
-                     Education
-                </td>
-            </tr>
-            <tr>    
-                <td> 2023- </td>
-                <td> Ph.D. </td> 
-                <td> GIS </td> 
-                <td> Peking University </td> 
-            </tr>
-            <tr>    
-                <td> 2019-2023 </td>
-                <td> B.S. </td> 
-                <td> GIS </td> 
-                <td> Beijing Normal University </td> 
-            </tr>
-        </tbody>
-    </table>
-    <br>
-     Research interests:
-    <br>
-     - Crater and slump detection in extraterrestrial planets and the Earth
-    <br>
-     - Floods
-    <br>
-     - Deep learning in remote sensing data
-<br>
-<br>
-<br>    
-
-<p style="font-weight:bold">Feng Lin (linfeng@stu.pku.edu.cn)</p>    
-    <table>
-        <tbody>
-            <tr>
-                <td style="width:100px;" rowspan="3">
-                    <div align=center>
-                    <img src="{{site.url}}/imgs/people/Feng_Lin.jpg" width="200" >
-                    </div>
-                </td>
-                <td colspan="3">
-                     Education
-                </td>
-            </tr>
-            <tr>
-                <td> 2024- </td>
-                <td> Ph.D. </td>  
-                <td> Physical Geography </td> 
-                <td> Peking University </td> 
-            </tr>
-            <tr>   
-                <td> 2020-2024 </td>
-                <td> B.S. </td>     
-                <td> Computer Science and Technology </td> 
-                <td> Beijing Forestry University </td> 
-            </tr>
-        </tbody>
-    </table>
-    <br>
-     Research interests:
-    <br>
-     - AI remote sensing
-<br>
-<br>
-<br>  
-
-<p style="font-weight:bold">Yi Hu (yihu25@stu.pku.edu.cn)</p>    
-    <table>
-        <tbody>
-            <tr>
-                <td style="width:100px;" rowspan="3">
-                    <div align=center>
-                    <img src="{{site.url}}/imgs/people/Yi.jpg" width="200" >
-                    </div>
-                </td>
-                <td colspan="3">
-                     Education
-                </td>
-            </tr>
-            <tr>
-                <td> 2025- </td>
-                <td> Ph.D. </td>  
-                <td> GIS </td> 
-                <td> Peking University </td> 
-            </tr>
-            <tr>   
-                <td> 2021-2025 </td>
-                <td> B.S. </td>     
-                <td> Computer Science and Technology </td> 
-                <td> Beijing Forestry University </td> 
-            </tr>
-        </tbody>
-    </table>
-    <br>
-     Research interests:
-    <br>
-     - AI in spatial and temporal analysis
-<br>
-<br>
-<br>  
-
-<p style="font-weight:bold">Master students</p>
-<p style="font-weight:bold">Jinghui Xiao (xiaojinghui@stu.pku.edu.cn)</p>    
-    <table>
-        <tbody>
-            <tr>
-                <td style="width:100px;" rowspan="3">
-                    <div align=center>
-                    <img src="{{site.url}}/imgs/people/Jinghui.jpg" width="200" >
-                    </div>
-                </td>
-                <td colspan="3">
-                     Education
-                </td>
-            </tr>
-            <tr>
-                <td> 2024- </td>
-                <td> M.S. </td>  
-                <td> Physical Geography </td> 
-                <td> Peking University </td> 
-            </tr>
-            <tr>   
-                <td> 2020-2024 </td>
-                <td> B.S. </td>     
-                <td> Science and Technology of Remote Sensing </td> 
-                <td> Wuhan University </td> 
-            </tr>
-        </tbody>
-    </table>
-    <br>
-     Research interests:
-    <br>
-     - InSAR application in urban environment
-<br>
-<br>
-<br>
-
-<p style="font-weight:bold">Yuanzhuo Zhou (yzzhou25@stu.pku.edu.cn)</p>    
-    <table>
-        <tbody>
-            <tr>
-                <td style="width:100px;" rowspan="3">
-                    <div align=center>
-                    <img src="{{site.url}}/imgs/people/Yuanzhuo.jpg" width="200" >
-                    </div>
-                </td>
-                <td colspan="3">
-                     Education
-                </td>
-            </tr>
-            <tr>
-                <td> 2025- </td>
-                <td> M.S. </td>  
-                <td> Physical Geography </td> 
-                <td> Peking University </td> 
-            </tr>
-            <tr>   
-                <td> 2021-2025 </td>
-                <td> B.S. </td>     
-                <td> GIS </td> 
-                <td> China University of Geosciences (Wuhan) </td> 
-            </tr>
-        </tbody>
-    </table>
-    <br>
-     Research interests:
-    <br>
-    - Thermokarst hazard in Qinghai-Tibet Plateau
-<br>
-<br>
-<br>
-
-<p style="font-weight:bold">Mei Chen (meichernpku@outlook.com; https://github.com/MeiChern; now working as an undergrd intern) </p>
-    <table>
-        <tbody>
-            <tr>
-                <td style="width:100px;" rowspan="3">
-                    <div align=center>
-                    <img src="{{site.url}}/imgs/people/Mei.jpg" width="200" >
-                    </div>
-                </td>
                 <td colspan="3">
                      Education
                 </td>
             </tr>
             <tr>
                 <td> 2026- </td>
-                <td> M.S. </td>  
-                <td> Physical Geography </td> 
-                <td> Peking University </td> 
+                <td> Ph.D. (prospective) </td>
+                <td> Ecology, Peking University </td>
             </tr>
-            <tr>  
-                <td> 2021-2026 </td>
-                <td> Bachelor </td> 
-                <td> Physical Geography </td> 
-                <td> Peking University </td> 
+            <tr>
+                <td> 2022-2026 </td>
+                <td> B.S. </td>
+                <td> Ecology, Peking University </td>
             </tr>
         </tbody>
     </table>
     <br>
      Research interests:
     <br>
-     - Natural hazards monitoring
+     - LiDAR applications in ecology
     <br>
-     - Cryosphere monitoring
-    <br>
-     - Geo-AI & earth system modeling
-     <br>
-     - Interactions between the technology, our cognition, and our academic life
+     - 3D space filling of forests
 <br>
 <br>
 <br>
 
-<p style="font-weight:bold">Undergraduate student</p>
-<br>
-<br>
-<br>
-
-<p style="font-weight:bold">VIP</p>
-<p style="font-weight:bold">Milk Cap </p>
-
+<p style="font-weight:bold">Shibo Hu (2400013261@stu.pku.edu.cn)</p>
     <table>
         <tbody>
             <tr>
-                <td style="width:100px;" rowspan="3">
-                    <div align=center>
-                    <img src="{{site.url}}/imgs/people/milk_cap1.jpg" width="200" >
-                    </div>
-                </td>
                 <td colspan="3">
                      Education
                 </td>
             </tr>
-            <tr>           
-     <td> Ph.D </td> 
-     <td> Physical Geography </td> 
-     <td> Home-Schooled </td> 
+            <tr>
+                <td> 2024- </td>
+                <td> B.S. </td>
+                <td> Ecology, Peking University </td>
             </tr>
         </tbody>
     </table>
     <br>
      Research interests:
     <br>
-     - Sleeping
+     - Leaf angle distribution and canopy 3D architecture
     <br>
-     - Playing
+     - LiDAR remote sensing of vegetation structure
+<br>
+<br>
+<br>
+
+<p style="font-weight:bold">Joint educational students</p>
+<p style="font-weight:bold">Zheng Shao (shaozheng@mails.gdut.edu.cn)</p>
+    <table>
+        <tbody>
+            <tr>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
+            <tr>
+                <td> 2023- </td>
+                <td> M.S. </td>
+                <td> Land Resource Management, Guangdong University of Technology </td>
+            </tr>
+            <tr>
+                <td> 2019-2023 </td>
+                <td> B.S. </td>
+                <td> Management Science, Guangdong University of Technology </td>
+            </tr>
+        </tbody>
+    </table>
     <br>
-     - Tins of chicken
+     Research interests:
+    <br>
+     - Modeling of land-use change and its ecological effects
+    <br>
+     - Monitoring and management of natural resources under climate change
 <br>
 <br>
-<br>   
- 
-<p style="font-weight:bold">Alumni</p>
-<p style="font-weight:bold">Penghui Wu</p> 
-2022-2025 Master thesis work with the lab. 
 <br>
-<br> 
-<p style="font-weight:bold">Sayyed Mohammad Javad Mirzadeh</p> 
-2023-2024 Postdoctoral Researcher, now in the US. 
+
+<p style="font-weight:bold">Shenxing Wang (wangsx2000@pku.edu.cn)</p>
+    <table>
+        <tbody>
+            <tr>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
+            <tr>
+                <td> 2023- </td>
+                <td> Ph.D. </td>
+                <td> Ecology, Peking University </td>
+            </tr>
+            <tr>
+                <td> 2019-2023 </td>
+                <td> B.S. </td>
+                <td> Chemistry, Peking University </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - Segmentation of remote sensing images based on deep learning
+    <br>
+     - Radar applications in global forests
 <br>
-<br> 
-<p style="font-weight:bold">Congrong Wang</p> 
-2023 Undergrad thesis work with the lab, now PhD student at University of Alaska, Fairbanks, US.
-<br>
-<br> 
-<p style="font-weight:bold">Xiao Yu</p> 
-2021-2023 Research Assistant, now Research Scientist at the Illinois State Water Survey, University of Illinois Urbana-Champaign, US. 
-<br>
-<br> 
-<p style="font-weight:bold">Qingyu Sui</p> 
-2021 Undergrad Research Assistant, now PhD student at the Southern Methodish University, US.
-<br> 
-<br> 
-<p style="font-weight:bold">Hanwen Yu</p> 
-2020-2021 Postdoctoral Researcher, now Professor at the University of Electronic Science and Technology of China.      
 <br>
 <br>
 </body>
