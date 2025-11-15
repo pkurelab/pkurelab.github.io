@@ -121,7 +121,7 @@ permalink: /home/
 We are the Remote Sensing of Ecology Lab in the Institute of Ecology, College of Urban and Environmental Sciences at Peking University (PKU-RE). Our lab focuses on developing and applying remote sensing techniques— including LiDAR, Radar, and optical imagery — to understand and investigate ecological systems. To date, we have developed a variety of algorithms and datasets to support ecological research and have utilized these tools to address a broad range of fundamental ecological questions. This work has been published in high-impact journals such as Science, Nature Climate Change, Proceedings of the National Academy of Sciences (PNAS), National Science Review, and Ecology. If you are interested in our scientific research, you can follow our lab’s official account, as shown below.
 
 <br>
-<img src="{{site.url}}/imgs/research_images/home3.png" alt="">
+<img src="{{site.url}}/imgs/research_images/home3.png" alt="" style="width:50%; height:50%;">
 <br>
 
 We are also always looking for highly motivated students and postdocs to join our lab. We have interesting research data and topics to help strengthen your academic profile and career development! Candidates with strong interests are welcomed to contact PI Shengli Tao.
