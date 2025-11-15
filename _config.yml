@@ -20,7 +20,7 @@
 
 title: Natural Hazards Remote Sensing Lab
 #contact: PI Xie Hu
-email: hu.xie@pku.edu.cn
+email: pkurelab@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   College of Urban and Environmental Sciences
   |
@@ -32,7 +32,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
-github_username:  gsprs-pku
+github_username:  pkurelab
 
 # Build settings
 theme: minima
