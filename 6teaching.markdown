@@ -32,6 +32,8 @@ permalink: /teaching/
 <p><strong>Advances in Ecological Research (Co-lecturer)</strong></p>
 <p>Participates in teaching topics on recent developments in ecological research.</p>
 </body>
-
+<br>
+<br>
+<br>
 </html>
 
