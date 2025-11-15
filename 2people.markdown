@@ -24,7 +24,7 @@ permalink: /people/
             <tr>
                 <td style="width:100px;" rowspan="10">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/people/Xie.jpg" width="200" >
+                    <img src="{{site.url}}/imgs/people/Shengli.jpg" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
@@ -106,7 +106,7 @@ Honors & awards:
     <br>
 - 2025 National Forestry and Grassland Administration Young Top Talents in Scientific and Technological Innovation
     <br>
-<a href="#" target="_blank">&#91;PKU personal profile&#93;</a>     <a href="#" target="_blank">&#91;Google Scholar&#93;</a> 
+<a href="https://scholar.google.com/citations?user=7NJkU6cAAAAJ&amp;hl=en" target="_blank">&#91;PKU personal profile&#93;</a>     <a href="https://ues.pku.edu.cn/jszy/tsl/tslgrjl/18324dd983f44c15861b47e5087974fc.htm" target="_blank">&#91;Google Scholar&#93;</a> 
 <br>
 <br>
 
