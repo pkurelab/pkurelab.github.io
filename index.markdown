@@ -59,12 +59,10 @@ layout: page
 
 <body>
     <div class="box">
-        <video autoplay loop preload muted>
-            <source src="/imgs/research_images/NewFenghuoshanRTS.mp4" type="video/mp4">
-        </video>
+        <img src="/imgs/index.jpg" />
     </div>
     <div class="content">
-        We are the Natural Hazard Remote Sensing (NHRS) Lab at Peking University, focusing on using remote sensing tools to characterize land disturbances associated with natural hazards in terrestrial planets.
+       We are the Remote Sensing of Ecology Lab in Peking University, focusing on the development and application of remote sensing techniques — including LiDAR, Radar, and optical imagery — to understand and investigate ecological systems.
     </div>
     <div class="button">
         <a href="/home/">Learn more</a>

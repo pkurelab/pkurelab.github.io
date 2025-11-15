@@ -12,7 +12,7 @@ permalink: /photos/
 </head>
 
 <body>
-<h2>Field work in summer 2023</h2>
+<h3>Field work in summer 2023</h3>
 <p>The Survey on Nitrogen and Phosphorus Pollution in Lakes in Dali, Yunnan</p>
 
 <div align=center>
@@ -25,14 +25,14 @@ permalink: /photos/
     <img src="{{site.url}}/imgs/group_photos/2023FieldWorkInSummer2.jpg" width="800" >
 </div>
 
-<h2>Field work in summer 2024</h2>
+<h3>Field work in summer 2024</h3>
 <p>The survey on forest fine structure in Saihanba, Chengde, Hebei</p>
 
 <div align=center>
     <img src="{{site.url}}/imgs/group_photos/2024FieldWorkInSummer1.jpg" width="800" >
 </div>
 
-<h2>Field work in summer 2025</h2>
+<h3>Field work in summer 2025</h3>
 <p>At Mount Changbai National Natural Reserve</p>
 
 <div align=center>
@@ -60,14 +60,14 @@ permalink: /photos/
     <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer7.jpg" width="48%" style="max-width:48%;">
 </div>
 
-<h2>Meeting with Prof. Jérôme Chave</h2>
+<h3>Meeting with Prof. Jérôme Chave</h3>
 <p>Prof. Chave (the third from the left).</p>
 <div align=center>
     <img src="{{site.url}}/imgs/group_photos/Meeting1.jpg" width="800" >
     <img src="{{site.url}}/imgs/group_photos/Meeting2.jpg" width="800" >
 </div>
 
-<h2>Alumni</h2>
+<h3>Alumni</h3>
 <p>Dr. Wenhua Qi (the middle).</p>
 <div align=center>
     <img src="{{site.url}}/imgs/group_photos/Alumni.jpg" width="800" >

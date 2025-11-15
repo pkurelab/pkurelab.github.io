@@ -18,10 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Natural Hazards Remote Sensing Lab
+title: Remote Sensing of Ecology Lab
 #contact: PI Xie Hu
 email: pkurelab@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
+  Institute of Ecology
+  |
   College of Urban and Environmental Sciences
   |
   Peking University

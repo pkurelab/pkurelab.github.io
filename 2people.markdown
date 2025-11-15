@@ -136,7 +136,7 @@ Honors & awards:
             </tr>
             <tr>
                 <td> 2008-2013 </td>
-                <td> B.S. </td>
+                <td> B.E. </td>
                 <td> Geology, Xinjiang University </td>
             </tr>
         </tbody>
