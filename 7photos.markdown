@@ -64,6 +64,7 @@ permalink: /photos/
 <p>Prof. Chave (the third from the left).</p>
 <div align=center>
     <img src="{{site.url}}/imgs/group_photos/Meeting1.jpg" width="800" >
+    <br>
     <img src="{{site.url}}/imgs/group_photos/Meeting2.jpg" width="800" >
 </div>
 
