@@ -17,7 +17,7 @@ permalink: /people/
 
 <body>
 
-<p style="font-weight:bold">PI Xie Hu (hu.xie@pku.edu.cn)</p>
+<p style="font-weight:bold">PI Shengli Tao (sltao@pku.edu.cn)</p>
 
     <table>
         <tbody>
@@ -32,22 +32,16 @@ permalink: /people/
                 </td>
             </tr>
             <tr>
-                <td> 2014-2018 </td>
+                <td> 2011.9-2017.1 </td>
                 <td> Ph.D. </td>
-                <td> Geophysics </td>
-                <td> Southern Methodist University, Dallas, TX, USA </td>
+                <td> Ecology </td>
+                <td> Peking University, Beijing, China </td>
             </tr>
             <tr>
-                <td> 2011-2013 </td>
-                <td> M.S. </td>
-                <td> Remote Sensing </td>
-                <td> Wuhan University, China </td>
-            </tr>
-            <tr>
-                <td> 2007-2011 </td>
+                <td> 2007.9-2011.6 </td>
                 <td> B.S. </td>
-                <td> GIS </td>
-                <td> China University of Geosciences, Wuhan, China </td>
+                <td> Ecology </td>
+                <td> University of Science and Technology Beijing, China </td>
             </tr>
  </tbody>
  </table>
@@ -55,60 +49,64 @@ permalink: /people/
  <table>
  <tbody>
             <tr>
-       <td colspan="3">
+      <td colspan="3">
             Employment
-       </td>
+      </td>
             </tr>
             <tr>
-                <td> 2021- </td>
-                <td> Assistant Professor<br>(tenure-track) </td>
-                <td> Peking University, Beijing, China </td>
+                <td> 2022.5- </td>
+                <td> Assistant Professor </td>
+                <td> Institute of Ecology, Peking University, Beijing, China </td>
             </tr>
             <tr>
-                <td> 2020-2021 </td>
-                <td> Assistant Professor<br>(tenure-track) </td>
-                <td> University of Houston, TX, USA </td>
-            </tr>
-            <tr>
-                <td> 2018-2020 </td>
+                <td> 2019.10-2021.9 </td>
                 <td> Postdoctoral Researcher </td>
-                <td> University of California Berkeley, CA, USA </td>
+                <td> French National Centre for Space Studies (CNES), Toulouse, France </td>
+            </tr>
+            <tr>
+                <td> 2017.4-2019.9 </td>
+                <td> Postdoctoral Researcher </td>
+                <td> French National Centre for Scientific Research (CNRS), Toulouse, France </td>
             </tr>
         </tbody>
     </table>
     <br>
-Honors & awards:
-    <br>
-- 2015 NASA Earth and Space Science Fellowship
-    <br>   
-- 2021 NASA New (Early Career) Investigator Program in Earth Science
-    <br>
-- 2022 AGU Natural Hazards Early Career
-    <br>
-- 2022 NSF-China Early Career
-    <br>
-- 2022 Top 10 Most Downloaded Paper* in Journal of Geophysical Research: Solid Earth <br>
-* In work published between 1 January 2021 – 31 December 2021, Hu et al. (2021) is among the top 10 most downloaded papers in the 12 months following online publication.
-    <br>
-- 2023 Beijing Emergency Response and Hazard Reduction Leadership Program (Early Career Group)
-    <br>
-- 2024 Beijing Association of Science and Technology Youth Leadership Program
-    <br>  
-- 2025 Annual Cover Paper* in npj Natural Hazards <br>
-* One only for year 2024
-    <br>
-- 2025 Visiting Sabbatical Fellowship by Cooperative Institute for Research in Environmental Sciences (CIRES) at the University of Colorado Boulder
+Dr. Shengli Tao is an assistant professor at the Institute of Ecology, Peking University. His research focuses on ecological remote sensing, with an emphasis on using LiDAR and Radar to monitor the 3D dynamics of forests, cities, and water resources.
+<br>
+He has published more than 60 peer-reviewed papers in leading journals such as Science, Nature Climate Change, PNAS, National Science Review, and Ecology. His work involves extensive collaboration with researchers from China, Europe, and the United States, and he has participated in international research projects funded by CNRS, CNES, the European Space Agency (ESA), the National Natural Science Foundation of China (NSFC), and the Chinese Academy of Sciences (CAS).
+<br>
+Dr. Tao also co-led the 2022–2025 LiDAR Workshop for Forestry Applications in Beijing. His research achievements have been recognized by multiple national honors, including the First-Class Prize of Beijing Science and Technology (2021) and the Top 10 Scientific Breakthroughs in China's Ecological and Environmental Research (2024).
     <br>
     <br>
 Research interests:
     <br>
-- SAR remote sensing in natural hazards and shallow solid earth
+- Ecological remote sensing (LiDAR, Radar)
     <br>
-- Landslide deformation and dynamics
+- Vegetation ecology
     <br>
-- Artificial intelligence in remote sensing big data analysis
+- City ecology
     <br>
-<a href="https://www.ues.pku.edu.cn/szdw/qbjs/h/355860.htm" target="_blank">&#91;PKU personal profile&#93;</a>     <a href="https://sites.google.com/site/xiehusar/" target="_blank">&#91;Google Site&#93;</a>     <a href="https://scholar.google.com/citations?user=m5v0PNIAAAAJ&hl=en" target="_blank">&#91;Google Scholar&#93;</a>     <a href="/articles/CV_XieHU_202201.pdf" download>&#91;CV&#93;</a> 
+Honors & awards:
+    <br>
+- 2017 Outstanding Graduate of Beijing
+    <br>
+- 2017 Outstanding Doctoral Dissertation of Peking University
+    <br>
+- 2021 First Prize of Beijing Natural Science Award for “Carbon Budget of Terrestrial Ecosystems” *<br>
+*Dr. Tao is the 6th contributor (in overall 12 contributors) of this work.
+    <br>
+- 2022 Boya Young Scholar of Peking University
+    <br>
+- 2022 Member of National Youth Talent Program
+    <br>
+- 2024 Youth Science and Technology Award of the Ecological Society of China
+    <br>
+- 2024 Top Ten Scientific and Technological Advances in China's Ecological and Environmental Research**<br>
+**Dr. Tao is the 1st contributor of this work.
+    <br>
+- 2025 National Forestry and Grassland Administration Young Top Talents in Scientific and Technological Innovation
+    <br>
+<a href="#" target="_blank">&#91;PKU personal profile&#93;</a>     <a href="#" target="_blank">&#91;Google Scholar&#93;</a> 
 <br>
 <br>
 
