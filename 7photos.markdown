@@ -72,10 +72,6 @@ permalink: /photos/
 <div align=center>
     <img src="{{site.url}}/imgs/group_photos/Alumni.jpg" width="800" >
 </div>
-
-</br>
-</br>
-</br>
 </body>
 </html>
 
