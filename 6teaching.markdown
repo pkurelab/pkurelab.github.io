@@ -13,22 +13,24 @@ permalink: /teaching/
 </head>
 
 <body>
-<h>
-    Advanced GIS Technologies and Applications (2022F | 2023F)
-    <br>
-    A textbook with ten chapters is under publishing with the Higher Education Publisher of China. I plan to publish an English e-copy as well :-) 
-    <br>
-    P.S., it is somehow a heavy load class. Please make sure you can avail yourself some time for computuer lab exercises every week. Eventually, you will gain or strengthen your GIS software and coding skills :-)
-</h>
-<iframe src="/teaching/GIS高级技术与应用2024Syllabus.pdf" width="100%" height="500px"></iframe>
-<h>
-    SAR Remote Sensing (2020F | 2023S)
-</h>
-<iframe src="/teaching/SARRemoteSensing2023Syllabus.pdf" width="100%" height="500px"></iframe>
-<h>
-    Specific Topics on Microwave Remote Sensing in Geosciences (2023F)
-</h>
-<iframe src="/teaching/微波遥感地学应用专题2023Syllabus.pdf" width="100%" height="500px"></iframe>
+<h3>Undergraduate Course</h3>
+<p><strong>Fundamentals of Ecological Remote Sensing (Instructor)</strong></p>
+<p>This course provides a systematic introduction to the concepts, principles, and practical applications of remote sensing in the visible/near-infrared, passive and active microwave (focus), and LiDAR (focus) domains.</p>
+
+<img src="{{site.url}}/imgs/teaching/teaching1.jpg" alt="" style="width:100%; height:auto; margin:20px 0;">
+<div style="display:flex; gap:16px; flex-wrap:wrap; margin-bottom:20px;">
+    <img src="{{site.url}}/imgs/teaching/teaching2.jpg" alt="" style="flex:1 1 45%; max-width:48%; height:auto;">
+    <img src="{{site.url}}/imgs/teaching/teaching3.jpg" alt="" style="flex:1 1 45%; max-width:48%; height:auto;">
+</div>
+
+<h3>Graduate Courses</h3>
+<p><strong>LiDAR Principles and Ecological Applications (Instructor)</strong></p>
+<p>This course covers the principles and applications of ground-based, backpack, airborne, and spaceborne LiDAR systems, with an emphasis on data acquisition and processing skills.</p>
+
+<img src="{{site.url}}/imgs/teaching/teaching4.jpg" alt="" style="width:100%; height:auto; margin:20px 0;">
+
+<p><strong>Advances in Ecological Research (Co-lecturer)</strong></p>
+<p>Participates in teaching topics on recent developments in ecological research.</p>
 
 </body>
 
