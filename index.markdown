@@ -59,7 +59,7 @@ layout: page
 
 <body>
     <div class="box" style="width:100vw;height:100vh;overflow:hidden;margin:0;">
-        <img src="/imgs/index.jpg" style="width:100%;height:100%;object-fit:cover;display:block;" />
+        <img src="/imgs/index.png" style="width:100%;height:100%;object-fit:cover;display:block;" />
     </div>
     <div class="content">
        We are the Remote Sensing of Ecology Lab in Peking University, focusing on the development and application of remote sensing techniques — including LiDAR, Radar, and optical imagery — to understand and investigate ecological systems.
