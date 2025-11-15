@@ -29,7 +29,7 @@ permalink: /photos/
 <p>The survey on forest fine structure in Saihanba, Chengde, Hebei</p>
 
 <div align=center>
-    <img src="{{site.url}}/imgs/group_photos/2024FieldWorkInSummer.jpg" width="800" >
+    <img src="{{site.url}}/imgs/group_photos/2024FieldWorkInSummer1.jpg" width="800" >
 </div>
 
 <h2>Field work in summer 2025</h2>
