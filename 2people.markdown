@@ -82,9 +82,9 @@ Research interests:
     <br>
 - Ecological remote sensing (LiDAR, Radar)
     <br>
-- Vegetation ecology
+- Vegetation Ecology
     <br>
-- City ecology
+- Urban Ecology
     <br>
 Honors & awards:
     <br>
@@ -106,7 +106,7 @@ Honors & awards:
     <br>
 - 2025 National Forestry and Grassland Administration Young Top Talents in Scientific and Technological Innovation
     <br>
-<a href="https://scholar.google.com/citations?user=7NJkU6cAAAAJ&amp;hl=en" target="_blank">&#91;PKU personal profile&#93;</a>     <a href="https://ues.pku.edu.cn/jszy/tsl/tslgrjl/18324dd983f44c15861b47e5087974fc.htm" target="_blank">&#91;Google Scholar&#93;</a> 
+<a href="https://ues.pku.edu.cn/jszy/tsl/tslgrjl/18324dd983f44c15861b47e5087974fc.htm" target="_blank">&#91;PKU personal profile&#93;</a>     <a href="https://scholar.google.com/citations?user=7NJkU6cAAAAJ&amp;hl=en" target="_blank">&#91;Google Scholar&#93;</a> 
 <br>
 <br>
 
@@ -157,7 +157,7 @@ Honors & awards:
             <tr>
                 <td style="width:100px;" rowspan="3">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/people/Qinwei_Ran.jpg" width="200" >
+                    <img src="{{site.url}}/imgs/people/Qinwei_Ran.png" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
@@ -231,7 +231,7 @@ Honors & awards:
             <tr>
                 <td style="width:100px;" rowspan="3">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/people/Hao_Bai.jpg" width="200" >
+                    <img src="{{site.url}}/imgs/people/Hao_Bai.png" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
@@ -266,7 +266,7 @@ Honors & awards:
             <tr>
                 <td style="width:100px;" rowspan="4">
                     <div align=center>
-                    <img src="{{site.url}}/imgs/people/Lijun_Wang.jpg" width="200" >
+                    <img src="{{site.url}}/imgs/people/Lijun_Wang.png" width="200" >
                     </div>
                 </td>
                 <td colspan="3">

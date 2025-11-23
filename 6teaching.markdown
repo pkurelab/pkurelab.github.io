@@ -14,7 +14,7 @@ permalink: /teaching/
 
 <body>
 <h3>Undergraduate Course</h3>
-<p><strong>Fundamentals of Ecological Remote Sensing (Instructor)</strong></p>
+<p><strong>Basics of Ecological Remote Sensing (Instructor)</strong></p>
 <p>This course provides a systematic introduction to the concepts, principles, and practical applications of remote sensing in the visible/near-infrared, passive and active microwave (focus), and LiDAR (focus) domains.</p>
 
 <img src="{{site.url}}/imgs/teaching/teaching1.jpg" alt="" style="width:100%; height:auto; margin:20px 0;">
