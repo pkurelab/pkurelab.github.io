@@ -19,11 +19,11 @@ layout: page
         }
         .box { 
             width: 100vw; 
-            height: 100vh; 
             position: fixed; 
             top: 0; 
             left: 0; 
-            z-index: -1; /* 最底层 */
+            z-index: -1;
+            overflow: hidden;
         }
         .box img {
             width: 100%;
@@ -39,23 +39,23 @@ layout: page
             left: 0; 
         }
         .content {
-            position: relative;
-            z-index: 2;
-            min-height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
+            position: absolute;
+            z-index: 3;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
             text-align: center;
             color: white;
             font-size: 24px;
             line-height: 1.5;
-            padding: 20px;
         }
         .button {
-            position: relative;
-            z-index: 2;
+            position: absolute;
+            z-index: 3;
+            top: 80%;
+            left: 50%;
+            transform: translateX(-50%);
             text-align: center;
-            margin-top: 20px;
         }
         .button a {
             text-decoration: none;
@@ -66,13 +66,44 @@ layout: page
         }
         .site-header {
             position: relative;
-            z-index: 10; /* 确保 header 在背景之上 */
+            z-index: 10;
         }
         .site-footer {
             position: relative;
-            z-index: 10; /* 确保 footer 在背景之上 */
+            z-index: 10;
         }
     </style>
+    <script>
+        function adjustBackgroundHeight() {
+            const box = document.querySelector('.box');
+            const header = document.querySelector('.site-header');
+            const footer = document.querySelector('.site-footer');
+            
+            if (box && header && footer) {
+                const headerHeight = header.offsetHeight || 0;
+                const footerHeight = footer.offsetHeight || 0;
+                const windowHeight = window.innerHeight;
+                const availableHeight = windowHeight - headerHeight - footerHeight;
+                
+                // 设置背景图片高度，确保不遮挡 footer
+                box.style.height = availableHeight + 'px';
+                box.style.top = headerHeight + 'px';
+            } else {
+                // 如果找不到 header 或 footer，使用视口高度减去估算的 footer 高度
+                const estimatedFooterHeight = 150; // 估算的 footer 高度
+                box.style.height = (window.innerHeight - estimatedFooterHeight) + 'px';
+            }
+        }
+        
+        // 页面加载时调整
+        window.addEventListener('load', adjustBackgroundHeight);
+        // 窗口大小改变时调整
+        window.addEventListener('resize', adjustBackgroundHeight);
+        // DOM 内容加载完成后调整
+        document.addEventListener('DOMContentLoaded', function() {
+            setTimeout(adjustBackgroundHeight, 100);
+        });
+    </script>
 </head>
 
 <body>
@@ -80,12 +111,10 @@ layout: page
         <img src="/imgs/index.png" />
     </div>
     <div class="content">
-        <div>
-            We are the Remote Sensing For Ecology Lab in Peking University, focusing on the development and application of remote sensing techniques — including LiDAR, Radar, and optical imagery — to understand and investigate the 3D structures and functions of ecosystems.
-            <div class="button">
-                <a href="/home/">Learn more</a>
-            </div>
-        </div>
+       We are the Remote Sensing For Ecology Lab in Peking University, focusing on the development and application of remote sensing techniques — including LiDAR, Radar, and optical imagery — to understand and investigate the 3D structures and functions of ecosystems.
+    </div>
+    <div class="button">
+        <a href="/home/">Learn more</a>
     </div>
 </body>
 
