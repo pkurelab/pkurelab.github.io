@@ -33,12 +33,12 @@ permalink: /home/
         }
         
         .focus ul {
-            width: 400%;
             position: absolute;
             left: 0px;
             top: 0px;
             margin: 0px;
-            padding: 0px
+            padding: 0px;
+            transition: none;
         }
         
         .arrow-l,
