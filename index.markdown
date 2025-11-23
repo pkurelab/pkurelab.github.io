@@ -67,10 +67,6 @@ layout: page
     <div class="button">
         <a href="/home/">Learn more</a>
     </div>
-    <div class="address" style="position: absolute; z-index: 3; bottom: 20px; left: 50%; transform: translateX(-50%); text-align: center; color: #000000; font-size: 14px; line-height: 1.6; background-color: rgba(255, 255, 255, 0.8); padding: 10px 20px; border-radius: 5px;">
-        <strong>Remote Sensing For Ecology Lab</strong><br>
-        Institute of Ecology | College of Urban and Environmental Sciences | Peking University | No 5 Yiheyuan Road | Beijing 100871, China
-    </div>
 </body>
 
 </html>
