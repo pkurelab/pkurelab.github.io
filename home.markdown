@@ -109,10 +109,37 @@ permalink: /home/
 					<a href="#"><img src="{{site.url}}/imgs/research_images/home2.png" alt=""></a>
 				</li>
                 <li>
-					<a href="#"><img src="{{site.url}}/imgs/group_photos/Meeting2.jpg" alt=""></a>
+					<a href="#"><img src="{{site.url}}/imgs/group_photos/2023FieldWorkInSummer1.jpg" alt=""></a>
 				</li>
                 <li>
-					<a href="#"><img src="{{site.url}}/imgs/group_photos/Alumni.jpg" alt=""></a>
+					<a href="#"><img src="{{site.url}}/imgs/group_photos/2023FieldWorkInSummer2.jpg" alt=""></a>
+				</li>
+                <li>
+					<a href="#"><img src="{{site.url}}/imgs/group_photos/2024FieldWorkInSummer1.jpg" alt=""></a>
+				</li>
+                <li>
+					<a href="#"><img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer1.jpg" alt=""></a>
+				</li>
+                <li>
+					<a href="#"><img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer2.jpg" alt=""></a>
+				</li>
+                <li>
+					<a href="#"><img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer3.jpg" alt=""></a>
+				</li>
+                <li>
+					<a href="#"><img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer4.jpg" alt=""></a>
+				</li>
+                <li>
+					<a href="#"><img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer5.jpg" alt=""></a>
+				</li>
+                <li>
+					<a href="#"><img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer6.jpg" alt=""></a>
+				</li>
+                <li>
+					<a href="#"><img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer7.jpg" alt=""></a>
+				</li>
+                <li>
+					<a href="#"><img src="{{site.url}}/imgs/group_photos/Meeting1.jpg" alt=""></a>
 				</li>
         </ul>
         <ol class="circle">
