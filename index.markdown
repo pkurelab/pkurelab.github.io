@@ -13,13 +13,14 @@ layout: page
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         * { margin: 0; padding: 0; }
-        html, body { height: 100%; overflow: hidden; }
+        html, body { height: 100%; }
         .box { 
             width: 100%; 
-            height: 100%; 
-            position: absolute; /* 设置定位为绝对定位 */
-            top: 0; /* 位于页面顶部 */
-            left: 0; /* 位于页面左侧 */
+            height: calc(100vh - 200px); /* 为 footer 留出空间 */
+            position: relative; 
+            top: 0; 
+            left: 0; 
+            z-index: 1;
         }
         video { 
             min-width: 100%; 
@@ -54,12 +55,16 @@ layout: page
             padding: 10px 20px;
             border-radius: 5px;
         }
+        .site-footer {
+            position: relative;
+            z-index: 10; /* 确保 footer 在背景之上 */
+        }
     </style>
 </head>
 
 <body>
-    <div class="box" style="width:100vw;height:100vh;overflow:hidden;margin:0;">
-        <img src="/imgs/index.png" style="width:100%;height:71.9%;object-fit:cover;display:block;" />
+    <div class="box" style="width:100vw;overflow:hidden;margin:0;">
+        <img src="/imgs/index.png" style="width:100%;height:100%;object-fit:cover;display:block;" />
     </div>
     <div class="content">
        We are the Remote Sensing For Ecology Lab in Peking University, focusing on the development and application of remote sensing techniques — including LiDAR, Radar, and optical imagery — to understand and investigate the 3D structures and functions of ecosystems.
