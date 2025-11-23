@@ -22,7 +22,7 @@ permalink: /people/
     <table>
         <tbody>
             <tr>
-                <td style="width:100px;" rowspan="10">
+                <td style="width:150px;" rowspan="10">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Shengli_Tao.jpg" width="200" >
                     </div>
@@ -115,7 +115,7 @@ Honors & awards:
     <table>
         <tbody>
             <tr>
-                <td style="width:100px;" rowspan="4">
+                <td style="width:150px;" rowspan="4">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Asadilla_Yusup.jpg" width="200" >
                     </div>
@@ -155,7 +155,7 @@ Honors & awards:
     <table>
         <tbody>
             <tr>
-                <td style="width:100px;" rowspan="3">
+                <td style="width:150px;" rowspan="3">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Qinwei_Ran.png" width="200" >
                     </div>
@@ -189,7 +189,7 @@ Honors & awards:
     <table>
         <tbody>
             <tr>
-                <td style="width:100px;" rowspan="4">
+                <td style="width:150px;" rowspan="4">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Xiaomei_Hu.jpg" width="200" >
                     </div>
@@ -229,7 +229,7 @@ Honors & awards:
     <table>
         <tbody>
             <tr>
-                <td style="width:100px;" rowspan="3">
+                <td style="width:150px;" rowspan="3">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Hao_Bai.png" width="200" >
                     </div>
@@ -264,7 +264,7 @@ Honors & awards:
     <table>
         <tbody>
             <tr>
-                <td style="width:100px;" rowspan="4">
+                <td style="width:150px;" rowspan="4">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Lijun_Wang.png" width="200" >
                     </div>
@@ -306,7 +306,7 @@ Honors & awards:
     <table>
         <tbody>
             <tr>
-                <td style="width:100px;" rowspan="3">
+                <td style="width:150px;" rowspan="3">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Ziyan_Yang.jpg" width="200" >
                     </div>
@@ -339,7 +339,7 @@ Honors & awards:
     <table>
         <tbody>
             <tr>
-                <td style="width:100px;" rowspan="4">
+                <td style="width:150px;" rowspan="4">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Bang_Sun.jpg" width="200" >
                     </div>
@@ -382,7 +382,7 @@ Honors & awards:
     <table>
         <tbody>
             <tr>
-                <td style="width:100px;" rowspan="3">
+                <td style="width:150px;" rowspan="3">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Zhanyi_Wu.jpg" width="200" >
                     </div>
@@ -417,7 +417,7 @@ Honors & awards:
     <table>
         <tbody>
             <tr>
-                <td style="width:100px;" rowspan="2">
+                <td style="width:150px;" rowspan="2">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Shibo_Hu.jpg" width="200" >
                     </div>
@@ -448,7 +448,7 @@ Honors & awards:
     <table>
         <tbody>
             <tr>
-                <td style="width:100px;" rowspan="3">
+                <td style="width:150px;" rowspan="3">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Zheng_Shao.jpg" width="200" >
                     </div>
@@ -483,7 +483,7 @@ Honors & awards:
     <table>
         <tbody>
             <tr>
-                <td style="width:100px;" rowspan="3">
+                <td style="width:150px;" rowspan="3">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/Shenxing_Wang.jpg" width="200" >
                     </div>
