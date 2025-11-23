@@ -36,6 +36,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: 
 github_username:  pkurelab
 
+# Navigation pages (exclude research)
+header_pages:
+  - home.markdown
+  - 2people.markdown
+  - 4publication.markdown
+  - 6teaching.markdown
+  - 7photos.markdown
+  - 8links.markdown
+
 # Build settings
 theme: minima
 plugins:
