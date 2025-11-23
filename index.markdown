@@ -13,14 +13,23 @@ layout: page
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         * { margin: 0; padding: 0; }
-        html, body { height: 100%; }
+        html, body { 
+            height: 100%; 
+            position: relative;
+        }
         .box { 
-            width: 100%; 
-            height: calc(100vh - 200px); /* 为 footer 留出空间 */
-            position: relative; 
+            width: 100vw; 
+            height: 100vh; 
+            position: fixed; 
             top: 0; 
             left: 0; 
-            z-index: 1;
+            z-index: -1; /* 最底层 */
+        }
+        .box img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            display: block;
         }
         video { 
             min-width: 100%; 
@@ -30,23 +39,23 @@ layout: page
             left: 0; 
         }
         .content {
-            position: absolute;
-            z-index: 3;
-            top: 50%;
-            left: 50%;
-            transform: translate(-50%, -50%);
+            position: relative;
+            z-index: 2;
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
             text-align: center;
             color: white;
             font-size: 24px;
             line-height: 1.5;
+            padding: 20px;
         }
         .button {
-            position: absolute;
-            z-index: 3;
-            top: 80%;
-            left: 50%;
-            transform: translateX(-50%);
+            position: relative;
+            z-index: 2;
             text-align: center;
+            margin-top: 20px;
         }
         .button a {
             text-decoration: none;
@@ -54,6 +63,10 @@ layout: page
             color: white;
             padding: 10px 20px;
             border-radius: 5px;
+        }
+        .site-header {
+            position: relative;
+            z-index: 10; /* 确保 header 在背景之上 */
         }
         .site-footer {
             position: relative;
@@ -63,14 +76,16 @@ layout: page
 </head>
 
 <body>
-    <div class="box" style="width:100vw;overflow:hidden;margin:0;">
-        <img src="/imgs/index.png" style="width:100%;height:100%;object-fit:cover;display:block;" />
+    <div class="box">
+        <img src="/imgs/index.png" />
     </div>
     <div class="content">
-       We are the Remote Sensing For Ecology Lab in Peking University, focusing on the development and application of remote sensing techniques — including LiDAR, Radar, and optical imagery — to understand and investigate the 3D structures and functions of ecosystems.
-    </div>
-    <div class="button">
-        <a href="/home/">Learn more</a>
+        <div>
+            We are the Remote Sensing For Ecology Lab in Peking University, focusing on the development and application of remote sensing techniques — including LiDAR, Radar, and optical imagery — to understand and investigate the 3D structures and functions of ecosystems.
+            <div class="button">
+                <a href="/home/">Learn more</a>
+            </div>
+        </div>
     </div>
 </body>
 
