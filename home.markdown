@@ -108,6 +108,12 @@ permalink: /home/
 				<li>
 					<a href="#"><img src="{{site.url}}/imgs/research_images/home2.png" alt=""></a>
 				</li>
+                <li>
+					<a href="#"><img src="{{site.url}}/imgs/group_photos/Meeting2.jpg" alt=""></a>
+				</li>
+                <li>
+					<a href="#"><img src="{{site.url}}/imgs/group_photos/Alumni.jpg" alt=""></a>
+				</li>
         </ul>
         <ol class="circle">
  
