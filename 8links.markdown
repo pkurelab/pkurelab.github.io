@@ -33,7 +33,7 @@ permalink: /links/
         </li>
         <li style="margin-bottom: 15px;">
             <strong>Global Urban Subsidence Map (GUS)</strong><br>
-            <a href="https://ee-pkurelab.projects.earthengine.app/view/gus/" target="_blank">http://www.veglab.ynu.edu.cn/</a>
+            <a href="https://ee-pkurelab.projects.earthengine.app/view/gus/" target="_blank">http://ee-pkurelab.projects.earthengine.app/view/gus/</a>
         </li>
     </ul>
 </body>
