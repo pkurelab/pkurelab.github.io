@@ -74,12 +74,12 @@ permalink: /photos/
     <img src="{{site.url}}/imgs/group_photos/Alumni.jpg" width="800" >
 </div>
 
-<p>Dr. Asadilla Yusup (the middle).</p>
+<p>Dr. Asadilla Yusup (3rd from left).</p>
 <div align=center>
     <img src="{{site.url}}/imgs/ASA.jpg" width="800" >
 </div>
 
-<p>Dr. Xiaomei Hu (the middle).</p>
+<p>Dr. Xiaomei Hu (4rd from left).</p>
 <div align=center>
     <img src="{{site.url}}/imgs/May.jpg" width="800" >
 </div>
