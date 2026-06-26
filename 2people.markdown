@@ -111,46 +111,6 @@ Honors & awards:
 <br>
 
 <p style="font-weight:bold">Postdocs</p>
-<p style="font-weight:bold">Asadilla Yusup (asadilla@pku.edu.cn)</p>
-    <table>
-        <tbody>
-            <tr>
-                <td style="width:150px;" rowspan="4">
-                    <div align=center>
-                    <img src="{{site.url}}/imgs/people/Asadilla_Yusup.jpg" width="200" >
-                    </div>
-                </td>
-                <td colspan="3">
-                     Education
-                </td>
-            </tr>
-            <tr>
-                <td> 2018-2023 </td>
-                <td> Ph.D. </td>
-                <td> Ecology, Xinjiang University </td>
-            </tr>
-            <tr>
-                <td> 2013-2016 </td>
-                <td> M.S. </td>
-                <td> Geography, Xinjiang Normal University </td>
-            </tr>
-            <tr>
-                <td> 2008-2013 </td>
-                <td> B.E. </td>
-                <td> Geology, Xinjiang University </td>
-            </tr>
-        </tbody>
-    </table>
-    <br>
-     Research interests:
-     <br>
-     - LiDAR applications in forest ecology
-    <br>
-     - Desert riparian forest ecosystem
-<br>
-<br>
-<br>
-
 <p style="font-weight:bold">Qinwei Ran (qwran@pku.edu.cn)</p>
     <table>
         <tbody>
@@ -184,7 +144,6 @@ Honors & awards:
 <br>
 <br>
 
-<p style="font-weight:bold">PhD students</p>
 <p style="font-weight:bold">Xiaomei Hu (huxm9@stu.pku.edu.cn)</p>
     <table>
         <tbody>
@@ -199,7 +158,7 @@ Honors & awards:
                 </td>
             </tr>
             <tr>
-                <td> 2022- </td>
+                <td> 2022-2026 </td>
                 <td> Ph.D. </td>
                 <td> Ecology, Peking University </td>
             </tr>
@@ -225,6 +184,7 @@ Honors & awards:
 <br>
 <br>
 
+<p style="font-weight:bold">PhD students</p>
 <p style="font-weight:bold">Hao Bai (haobai@stu.pku.edu.cn)</p>
     <table>
         <tbody>
