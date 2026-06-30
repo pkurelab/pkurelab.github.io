@@ -111,7 +111,7 @@ layout: page
         <img src="/imgs/index.png" />
     </div>
     <div class="content">
-       We are the Remote Sensing For Ecology Lab in Peking University, focusing on the development and application of remote sensing techniques — including LiDAR, Radar, and optical imagery — to understand and investigate the 3D structures and functions of ecosystems (forest, urban, water).
+       We are the Remote Sensing For Ecology Lab in Peking University, focusing on the development and application of remote sensing techniques — including LiDAR, Radar, and optical imagery — to understand and investigate the 3D structures and functions of natural and urban forests.
     </div>
     <div class="button">
         <a href="/home/">Learn more</a>
