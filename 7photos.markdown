@@ -68,6 +68,12 @@ permalink: /photos/
     <img src="{{site.url}}/imgs/group_photos/Meeting2.jpg" width="800" >
 </div>
 
+<h3>Meeting with Prof. David Coomes</h3>
+<p>Prof. David Coomes (right).</p>
+<div align=center>
+    <img src="{{site.url}}/imgs/david_cooms.jpg.jpg" width="800" >
+</div>
+
 <h3>Alumni</h3>
 <p>Dr. Wenhua Qi (the middle).</p>
 <div align=center>
