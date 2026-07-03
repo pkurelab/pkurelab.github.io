@@ -71,7 +71,7 @@ permalink: /photos/
 <h3>Meeting with Prof. David Coomes</h3>
 <p>Prof. David Coomes (the right).</p>
 <div align=center>
-    <img src="{{site.url}}/imgs/david.jpg" width="800" >
+    <img src="{{site.url}}/imgs/david2.jpg" width="800" >
 </div>
 
 <h3>Alumni</h3>
