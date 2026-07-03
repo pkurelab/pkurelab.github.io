@@ -12,6 +12,21 @@ permalink: /photos/
 </head>
 
 <body>
+
+<h3>Meeting with Prof. Jérôme Chave</h3>
+<p>Prof. Chave (the third from the left).</p>
+<div align=center>
+    <img src="{{site.url}}/imgs/group_photos/Meeting1.jpg" width="800" >
+    <br>
+    <img src="{{site.url}}/imgs/group_photos/Meeting2.jpg" width="800" >
+</div>
+
+<h3>Meeting with Prof. David Coomes</h3>
+<p>Prof. David Coomes (right).</p>
+<div align=center>
+    <img src="{{site.url}}/imgs/david_cooms.jpg.jpg" width="800" >
+</div>
+    
 <h3>Field work in summer 2023</h3>
 <p>The Survey on Nitrogen and Phosphorus Pollution in Lakes in Dali, Yunnan</p>
 
@@ -58,20 +73,6 @@ permalink: /photos/
     <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer5.jpg" width="48%" style="max-width:48%;">
     <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer6.jpg" width="48%" style="max-width:48%;">
     <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer7.jpg" width="48%" style="max-width:48%;">
-</div>
-
-<h3>Meeting with Prof. Jérôme Chave</h3>
-<p>Prof. Chave (the third from the left).</p>
-<div align=center>
-    <img src="{{site.url}}/imgs/group_photos/Meeting1.jpg" width="800" >
-    <br>
-    <img src="{{site.url}}/imgs/group_photos/Meeting2.jpg" width="800" >
-</div>
-
-<h3>Meeting with Prof. David Coomes</h3>
-<p>Prof. David Coomes (right).</p>
-<div align=center>
-    <img src="{{site.url}}/imgs/david_cooms.jpg.jpg" width="800" >
 </div>
 
 <h3>Alumni</h3>
