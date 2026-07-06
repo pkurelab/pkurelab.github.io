@@ -12,52 +12,10 @@ permalink: /photos/
 </head>
 
 <body>    
-<h3>Field work in summer 2023</h3>
-<p>The Survey on Nitrogen and Phosphorus Pollution in Lakes in Dali, Yunnan</p>
-
+<h3>Meeting with Prof. David Coomes</h3>
+<p>Prof. David Coomes (the right).</p>
 <div align=center>
-    <img src="{{site.url}}/imgs/group_photos/2023FieldWorkInSummer1.jpg" width="800" >
-</div>
-
-<p>Academic visit at Dali University, Yunnan</p>
-
-<div align=center>
-    <img src="{{site.url}}/imgs/group_photos/2023FieldWorkInSummer2.jpg" width="800" >
-</div>
-
-<h3>Field work in summer 2024</h3>
-<p>The survey on forest fine structure in Saihanba, Chengde, Hebei</p>
-
-<div align=center>
-    <img src="{{site.url}}/imgs/group_photos/2024FieldWorkInSummer1.jpg" width="800" >
-</div>
-
-<h3>Field work in summer 2025</h3>
-<p>At Mount Changbai National Natural Reserve</p>
-
-<div align=center>
-    <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer1.jpg" width="800" >
-</div>
-
-<p>At Mount Gutian National Natural Reserve</p>
-
-<div align=center>
-    <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer2.jpg" width="800" >
-</div>
-
-<p>At Xishuangbanna National Natural Reserve</p>
-
-<div align=center>
-    <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer3.jpg" width="800" >
-</div>
-
-<p>Operating UAV, TLS, measuring Diameter at Breast Height and Leaf Area Index during the field work.</p>
-
-<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:20px 0;">
-    <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer4.jpg" width="48%" style="max-width:48%;">
-    <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer5.jpg" width="48%" style="max-width:48%;">
-    <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer6.jpg" width="48%" style="max-width:48%;">
-    <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer7.jpg" width="48%" style="max-width:48%;">
+    <img src="{{site.url}}/imgs/david2.jpg" width="800" >
 </div>
 
 <h3>Meeting with Prof. Jérôme Chave</h3>
@@ -68,16 +26,10 @@ permalink: /photos/
     <img src="{{site.url}}/imgs/group_photos/Meeting2.jpg" width="800" >
 </div>
 
-<h3>Meeting with Prof. David Coomes</h3>
-<p>Prof. David Coomes (the right).</p>
-<div align=center>
-    <img src="{{site.url}}/imgs/david2.jpg" width="800" >
-</div>
-
 <h3>Alumni</h3>
-<p>Dr. Wenhua Qi (the middle).</p>
+<p>Dr. Xiaomei Hu (4th from left).</p>
 <div align=center>
-    <img src="{{site.url}}/imgs/group_photos/Alumni.jpg" width="800" >
+    <img src="{{site.url}}/imgs/May.jpg" width="800" >
 </div>
 
 <p>Dr. Asadilla Yusup (3rd from left).</p>
@@ -85,9 +37,52 @@ permalink: /photos/
     <img src="{{site.url}}/imgs/ASA.jpg" width="800" >
 </div>
 
-<p>Dr. Xiaomei Hu (4rd from left).</p>
+<p>Dr. Wenhua Qi (the middle).</p>
 <div align=center>
-    <img src="{{site.url}}/imgs/May.jpg" width="800" >
+    <img src="{{site.url}}/imgs/group_photos/Alumni.jpg" width="800" >
+</div>
+
+<h3>Field work in summer 2025</h3>
+<p>At Mount Changbai National Natural Reserve</p>
+<div align=center>
+    <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer1.jpg" width="800" >
+</div>
+
+<p>At Mount Gutian National Natural Reserve</p>
+<div align=center>
+    <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer2.jpg" width="800" >
+</div>
+
+<p>At Xishuangbanna National Natural Reserve</p>
+<div align=center>
+    <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer3.jpg" width="800" >
+</div>
+
+<p>Operating UAV, TLS, measuring Diameter at Breast Height and Leaf Area Index during the field work.</p>
+<div style="display:flex; flex-wrap:wrap; gap:16px; justify-content:center; margin:20px 0;">
+    <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer4.jpg" width="48%" style="max-width:48%;">
+    <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer5.jpg" width="48%" style="max-width:48%;">
+    <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer6.jpg" width="48%" style="max-width:48%;">
+    <img src="{{site.url}}/imgs/group_photos/2025FieldWorkInSummer7.jpg" width="48%" style="max-width:48%;">
+</div>
+
+<h3>Field work in summer 2024</h3>
+<p>The survey on forest fine structure in Saihanba, Chengde, Hebei</p>
+
+<div align=center>
+    <img src="{{site.url}}/imgs/group_photos/2024FieldWorkInSummer1.jpg" width="800" >
+</div>
+
+<h3>Field work in summer 2023</h3>
+<p>The Survey on Nitrogen and Phosphorus Pollution in Lakes in Dali, Yunnan</p>
+
+<div align=center>
+    <img src="{{site.url}}/imgs/group_photos/2023FieldWorkInSummer1.jpg" width="800" >
+</div>
+
+<p>Academic visit at Dali University, Yunnan</p>
+<div align=center>
+    <img src="{{site.url}}/imgs/group_photos/2023FieldWorkInSummer2.jpg" width="800" >
 </div>
 
 <br>
