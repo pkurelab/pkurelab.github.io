@@ -278,7 +278,7 @@ Honors & awards:
             </tr>
             <tr>
                 <td> 2026- </td>
-                <td> Ph.D. (prospective) </td>
+                <td> Ph.D.</td>
                 <td> Ecology, Peking University </td>
             </tr>
             <tr>
@@ -313,7 +313,7 @@ Honors & awards:
             </tr>
             <tr>
                 <td> 2026- </td>
-                <td> Ph.D. (prospective) </td>
+                <td> Ph.D.</td>
                 <td> Ecology, Peking University </td>
             </tr>
             <tr>
