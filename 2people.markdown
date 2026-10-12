@@ -302,7 +302,7 @@ Honors & awards:
     <table>
         <tbody>
             <tr>
-                <td style="width:150px;" rowspan="3">
+                <td style="width:150px;" rowspan="4">
                     <div align=center>
                     <img src="{{site.url}}/imgs/people/NingWang.jpg" width="200" >
                     </div>
@@ -337,7 +337,6 @@ Honors & awards:
 <br>
 <br>
 <br>
-
 
 <p style="font-weight:bold">Undergraduate students</p>
 
