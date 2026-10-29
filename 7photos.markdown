@@ -12,6 +12,14 @@ permalink: /photos/
 </head>
 
 <body>    
+<h3>Team dinner</h3>
+<p> Farewell to Bai Hao Before His Exchange in France.</p>
+<div align=center>
+    <img src="{{site.url}}/imgs/group_photos/课题组聚餐.jpg" width="800" >
+</div>
+
+
+<body>    
 <h3>Meeting with Prof. David Coomes</h3>
 <p>Prof. David Coomes (the right).</p>
 <div align=center>
