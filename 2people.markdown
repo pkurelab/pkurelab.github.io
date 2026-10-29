@@ -193,7 +193,7 @@ Honors & awards:
             <tr>
                 <td style="width:150px;" rowspan="4">
                     <div align=center>
-                    < img src="{{site.url}}/imgs/people/Lijun_Wang.png" width="200" >
+                    <img src="{{site.url}}/imgs/people/Lijun_Wang.png" width="200" >
                     </div>
                 </td>
                 <td colspan="3">
