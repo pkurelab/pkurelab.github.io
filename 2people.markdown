@@ -187,6 +187,48 @@ Honors & awards:
 <br>
 <br>
 
+<p style="font-weight:bold">Lijun Wang (ljwang@stu.pku.edu.cn)</p >
+    <table>
+        <tbody>
+            <tr>
+                <td style="width:150px;" rowspan="4">
+                    <div align=center>
+                    < img src="{{site.url}}/imgs/people/Lijun_Wang.png" width="200" >
+                    </div>
+                </td>
+                <td colspan="3">
+                     Education
+                </td>
+            </tr>
+            <tr>
+                <td> 2024- </td>
+                <td> Ph.D. </td>
+                <td> Ecology, Peking University </td>
+            </tr>
+            <tr>
+                <td> 2021-2024 </td>
+                <td> M.E. </td>
+                <td> Surveying and Mapping Science and Technology, Southwest Jiaotong University </td>
+            </tr>
+            <tr>
+                <td> 2017-2021 </td>
+                <td> B.E. </td>
+                <td> Remote Sensing Science and Technology, Southwest Jiaotong University </td>
+            </tr>
+        </tbody>
+    </table>
+    <br>
+     Research interests:
+    <br>
+     - Time-series InSAR processing
+    <br>
+     - Urban land subsidence
+    <br>
+     - Microwave remote sensing
+<br>
+<br>
+<br>
+
 
 <p style="font-weight:bold">Ziyan Yang (yangziyan@stu.pku.edu.cn)</p>
     <table>
