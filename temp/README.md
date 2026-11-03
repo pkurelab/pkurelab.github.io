@@ -10,6 +10,6 @@ generated GitHub Pages site.
 The cleanup intentionally preserves files that were already modified or newly
 added in the working tree, except for `Thumbs.db` system-cache files.
 
-Cleanup summary: 242 archived files, approximately 451.5 MiB. The archive
+Cleanup summary: 244 archived files, approximately 451.5 MiB. The archive
 contains unused static libraries, legacy publication/research media, course
 PDFs, obsolete template fragments, and system-cache files.
