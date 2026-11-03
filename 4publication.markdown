@@ -84,7 +84,7 @@ permalink: /publication/
         <td><img src="{{ '/imgs/article_img/pub16.jpg' | relative_url }}" alt="A global view of urban land subsidence and its changing trajectories" loading="lazy"></td>
         <td>
           <p><strong>16. A global view of urban land subsidence and its changing trajectories.</strong><br>
-          Wang, L.†, Ao, Z. †, Tao, S.*, Hu, Xie*, Hu, X., Ran, Y., Wang, G., Zhao, K., Bai, H.†, Xiao, J., Xue, B., Zhao, X., Li, Zhang, F., Jiang, K., Lin, Y., Huang, Y., Gao. Y., Jiang, T., Peng, Z., Zhu, J., Zhao, S., Wang, S., Zhu, B., Wang, Z., Liu, H., Tang, Z., Xing, H., Liu, Y., Fang, J. <br>
+          Wang, L.†, Ao, Z. †, <strong>Tao, S.*<strong>, Hu, Xie*, Hu, X., Ran, Y., Wang, G., Zhao, K., Bai, H.†, Xiao, J., Xue, B., Zhao, X., Li, Zhang, F., Jiang, K., Lin, Y., Huang, Y., Gao. Y., Jiang, T., Peng, Z., Zhu, J., Zhao, S., Wang, S., Zhu, B., Wang, Z., Liu, H., Tang, Z., Xing, H., Liu, Y., Fang, J. <br>
           <em>Nature Cities</em> (2026).<br>
           <a href="https://doi.org/10.1038/s44284-026-00527-8">&#91;doi&#93;</a></p>
         </td>
@@ -94,7 +94,7 @@ permalink: /publication/
         <td><img src="{{ '/imgs/article_img/pub15.jpg' | relative_url }}" alt="Cooling potential of global urban roof greening" loading="lazy"></td>
         <td>
           <p><strong>15. Cooling potential of global urban roof greening. npj Urban Sustain.</strong><br>
-          Bai, H., Yu, Z., Nie, S., Luo, M., Hu, X., Xiao, J., Xue, B., Xu, C., Chen, X., Fan, L., Wang, S., Tang, Z., Zhou, W., Zhao, S., Tao, S.*<br>
+          Bai, H., Yu, Z., Nie, S., Luo, M., Hu, X., Xiao, J., Xue, B., Xu, C., Chen, X., Fan, L., Wang, S., Tang, Z., Zhou, W., Zhao, S., <strong>Tao, S.*<strong><br>
           <em>npj Urban Sustain</em>, 6:49 (2026).<br>
           <a href="https://doi.org/10.1038/s42949-026-00354-9">&#91;doi&#93;</a></p>
         </td>
@@ -104,7 +104,7 @@ permalink: /publication/
         <td><img src="{{ '/imgs/article_img/pub14.jpg' | relative_url }}" alt="Amazonian rainforest damage during the 2023–2024 droughts" loading="lazy"></td>
         <td>
           <p><strong>14. Unprecedented Amazonian rainforests damage during the 2023–2024 droughts.</strong><br>
-          Bai, H., Liu, X., Yang, H., Chave, J., Ciais, P., Wigneron, J.-P., Saatchi, S., Xiao, J., Le Toan, T., Hu, X., Yang, Z., Wang, L., Fan, L., Yao, Y., Chen, X., Liu, Y., Xue, B., Guo, Q., Tang, Z., Liu, H., Fang, J., Tao, S.*<br>
+          Bai, H., Liu, X., Yang, H., Chave, J., Ciais, P., Wigneron, J.-P., Saatchi, S., Xiao, J., Le Toan, T., Hu, X., Yang, Z., Wang, L., Fan, L., Yao, Y., Chen, X., Liu, Y., Xue, B., Guo, Q., Tang, Z., Liu, H., Fang, J.,<strong> Tao, S.*<strong><br>
           <em>PNAS</em>, 123:e2514066123 (2026).<br>
           <a href="https://doi.org/10.1073/pnas.2514066123">&#91;doi&#93;</a></p>
         </td>

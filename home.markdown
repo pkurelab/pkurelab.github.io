@@ -119,14 +119,15 @@ permalink: /home/
   <button class="carousel-arrow arrow-l" type="button" aria-label="Previous image">&#8249;</button>
   <ul class="carousel-track">
     <li class="carousel-slide">
+      <img src="{{ '/imgs/group_photos/Teamgroup.png' | relative_url }}" alt="Members of the Remote Sensing for Ecology Lab" loading="lazy">
+    </li>
+    <li class="carousel-slide">
       <img src="{{ '/imgs/research_images/home1.png' | relative_url }}" alt="Remote sensing research highlight">
     </li>
     <li class="carousel-slide">
       <img src="{{ '/imgs/research_images/home2.png' | relative_url }}" alt="Ecological remote sensing research highlight" loading="lazy">
     </li>
-    <li class="carousel-slide">
-      <img src="{{ '/imgs/group_photos/Teamgroup.png' | relative_url }}" alt="Members of the Remote Sensing for Ecology Lab" loading="lazy">
-    </li>
+
   </ul>
   <button class="carousel-arrow arrow-r" type="button" aria-label="Next image">&#8250;</button>
   <ol class="carousel-dots" aria-label="Choose an image"></ol>
