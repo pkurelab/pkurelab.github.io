@@ -84,7 +84,7 @@ permalink: /publication/
         <td><img src="{{ '/imgs/article_img/pub16.jpg' | relative_url }}" alt="A global view of urban land subsidence and its changing trajectories" loading="lazy"></td>
         <td>
           <p><strong>16. A global view of urban land subsidence and its changing trajectories.</strong><br>
-          Wang, L.†, Ao, Z. †, <strong>Tao, S.*<strong>, Hu, Xie*, Hu, X., Ran, Y., Wang, G., Zhao, K., Bai, H.†, Xiao, J., Xue, B., Zhao, X., Li, Zhang, F., Jiang, K., Lin, Y., Huang, Y., Gao. Y., Jiang, T., Peng, Z., Zhu, J., Zhao, S., Wang, S., Zhu, B., Wang, Z., Liu, H., Tang, Z., Xing, H., Liu, Y., Fang, J. <br>
+          Wang, L.†, Ao, Z. †, <strong>Tao, S.*</strong>, Hu, Xie*, Hu, X., Ran, Y., Wang, G., Zhao, K., Bai, H.†, Xiao, J., Xue, B., Zhao, X., Li, Zhang, F., Jiang, K., Lin, Y., Huang, Y., Gao. Y., Jiang, T., Peng, Z., Zhu, J., Zhao, S., Wang, S., Zhu, B., Wang, Z., Liu, H., Tang, Z., Xing, H., Liu, Y., Fang, J. <br>
           <em>Nature Cities</em> (2026).<br>
           <a href="https://doi.org/10.1038/s44284-026-00527-8">&#91;doi&#93;</a></p>
         </td>
@@ -94,7 +94,7 @@ permalink: /publication/
         <td><img src="{{ '/imgs/article_img/pub15.jpg' | relative_url }}" alt="Cooling potential of global urban roof greening" loading="lazy"></td>
         <td>
           <p><strong>15. Cooling potential of global urban roof greening. npj Urban Sustain.</strong><br>
-          Bai, H., Yu, Z., Nie, S., Luo, M., Hu, X., Xiao, J., Xue, B., Xu, C., Chen, X., Fan, L., Wang, S., Tang, Z., Zhou, W., Zhao, S., <strong>Tao, S.*<strong><br>
+          Bai, H., Yu, Z., Nie, S., Luo, M., Hu, X., Xiao, J., Xue, B., Xu, C., Chen, X., Fan, L., Wang, S., Tang, Z., Zhou, W., Zhao, S., <strong>Tao, S.*</strong><br>
           <em>npj Urban Sustain</em>, 6:49 (2026).<br>
           <a href="https://doi.org/10.1038/s42949-026-00354-9">&#91;doi&#93;</a></p>
         </td>
@@ -104,7 +104,7 @@ permalink: /publication/
         <td><img src="{{ '/imgs/article_img/pub14.jpg' | relative_url }}" alt="Amazonian rainforest damage during the 2023–2024 droughts" loading="lazy"></td>
         <td>
           <p><strong>14. Unprecedented Amazonian rainforests damage during the 2023–2024 droughts.</strong><br>
-          Bai, H., Liu, X., Yang, H., Chave, J., Ciais, P., Wigneron, J.-P., Saatchi, S., Xiao, J., Le Toan, T., Hu, X., Yang, Z., Wang, L., Fan, L., Yao, Y., Chen, X., Liu, Y., Xue, B., Guo, Q., Tang, Z., Liu, H., Fang, J.,<strong> Tao, S.*<strong><br>
+          Bai, H., Liu, X., Yang, H., Chave, J., Ciais, P., Wigneron, J.-P., Saatchi, S., Xiao, J., Le Toan, T., Hu, X., Yang, Z., Wang, L., Fan, L., Yao, Y., Chen, X., Liu, Y., Xue, B., Guo, Q., Tang, Z., Liu, H., Fang, J.,<strong> Tao, S.*</strong><br>
           <em>PNAS</em>, 123:e2514066123 (2026).<br>
           <a href="https://doi.org/10.1073/pnas.2514066123">&#91;doi&#93;</a></p>
         </td>
@@ -168,7 +168,7 @@ permalink: /publication/
         <td><img src="{{ '/imgs/article_img/pub7.jpg' | relative_url }}" alt="Changes in China's water resources" loading="lazy"></td>
         <td>
           <p><strong>7. Changes in China's water resources in the early 21st century.</strong><br>
-          Tao, S., Zhang, H., Feng, Y., Zhu, J., Cai, Q., Xiong, X., Ma, S., Fang, L., Fang, W., Tian, D., Zhao, X., Fang, J.*<br>
+          <strong>Tao, S.</strong>, Zhang, H., Feng, Y., Zhu, J., Cai, Q., Xiong, X., Ma, S., Fang, L., Fang, W., Tian, D., Zhao, X., Fang, J.*<br>
           <em>Frontiers in Ecology and the Environment</em>, 18:188-193 (2020).<br>
           <a href="https://doi.org/10.1002/fee.2164">&#91;doi&#93;</a></p>
         </td>
@@ -177,7 +177,7 @@ permalink: /publication/
         <td><img src="{{ '/imgs/article_img/pub6.jpg' | relative_url }}" alt="Changes in China's lakes" loading="lazy"></td>
         <td>
           <p><strong>6. Changes in China's lakes: Climate and human impacts.</strong><br>
-          Tao, S., Fang, J.*, Ma, S., Cai, Q., Xiong, X., Tian, D., Zhao, X., Fang, L., Zhang, H., Zhu, J., Zhao, S.<br>
+          <strong>Tao, S.</strong>, Fang, J.*, Ma, S., Cai, Q., Xiong, X., Tian, D., Zhao, X., Fang, L., Zhang, H., Zhu, J., Zhao, S.<br>
           <em>National Science Review</em>, 7:132–140 (2020).<br>
           <a href="https://doi.org/10.1093/nsr/nwz103">&#91;doi&#93;</a></p>
         </td>
@@ -186,7 +186,7 @@ permalink: /publication/
         <td><img src="{{ '/imgs/article_img/pub5.jpg' | relative_url }}" alt="TropiSAR and AfriSAR reference datasets" loading="lazy"></td>
         <td>
           <p><strong>5. In situ reference datasets from the TropiSAR and AfriSAR campaigns in support of upcoming spaceborne biomass missions.</strong><br>
-          Labrière, N.*, Tao, S., Chave, J., Scipal, K., Toan, T., Abernethy, K.<br>
+          Labrière, N.*, <strong>Tao, S.</strong>, Chave, J., Scipal, K., Toan, T., Abernethy, K.<br>
           <em>IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing</em>, 11:3617-3627 (2018).<br>
           <a href="https://doi.org/10.1109/JSTARS.2018.2851606">&#91;doi&#93;</a></p>
         </td>
@@ -195,7 +195,7 @@ permalink: /publication/
         <td><img src="{{ '/imgs/article_img/pub4.jpg' | relative_url }}" alt="Global patterns and determinants of forest canopy height" loading="lazy"></td>
         <td>
           <p><strong>4. Global patterns and determinants of forest canopy height.</strong><br>
-          Tao, S., Guo, Q., Li, C., Wang, Z., Fang, J.*<br>
+          <strong>Tao, S.</strong>, Guo, Q., Li, C., Wang, Z., Fang, J.*<br>
           <em>Ecology</em>, 97:3265-3270 (2016).<br>
           <a href="https://doi.org/10.1002/ecy.1580">&#91;doi&#93;</a></p>
         </td>
@@ -204,7 +204,7 @@ permalink: /publication/
         <td><img src="{{ '/imgs/article_img/pub3.jpg' | relative_url }}" alt="Segmenting tree crowns from LiDAR data" loading="lazy"></td>
         <td>
           <p><strong>3. Segmenting tree crowns from terrestrial and mobile LiDAR data by exploring ecological theories.</strong><br>
-          Tao, S., Wu, F., Guo, Q.*, Wang, Y., Li, W., Xue, B., Hu, X., Li, P., Tian, D., Li, C., Yao, H., Li, Y., Xu, G., Fang, J.<br>
+          <strong>Tao, S.</strong>, Wu, F., Guo, Q.*, Wang, Y., Li, W., Xue, B., Hu, X., Li, P., Tian, D., Li, C., Yao, H., Li, Y., Xu, G., Fang, J.<br>
           <em>ISPRS Journal of Photogrammetry and Remote Sensing</em>, 110:66-76 (2015).<br>
           <a href="https://doi.org/10.1016/j.isprsjprs.2015.10.007">&#91;doi&#93;</a></p>
         </td>
@@ -213,7 +213,7 @@ permalink: /publication/
         <td><img src="{{ '/imgs/article_img/pub2.jpg' | relative_url }}" alt="A geometric method for wood-leaf separation" loading="lazy"></td>
         <td>
           <p><strong>2. A geometric method for wood-leaf separation using terrestrial and simulated LiDAR data.</strong><br>
-          Tao, S., Guo, Q.*, Xu, S., Su, Y., Li, Y., Wu, F.<br>
+          <strong>Tao, S.</strong>, Guo, Q.*, Xu, S., Su, Y., Li, Y., Wu, F.<br>
           <em>Photogrammetric Engineering & Remote Sensing</em>, 81:767-776 (2015).<br>
           <a href="https://doi.org/10.14358/PERS.81.10.767">&#91;doi&#93;</a></p>
         </td>
@@ -222,7 +222,7 @@ permalink: /publication/
         <td><img src="{{ '/imgs/article_img/pub1.jpg' | relative_url }}" alt="Rapid loss of lakes on the Mongolian Plateau" loading="lazy"></td>
         <td>
           <p><strong>1. Rapid loss of lakes on the Mongolian Plateau.</strong><br>
-          Tao, S., Fang J.*, Zhao, X., Zhao, S., Shen, H., Hu, H., Tang, Z., Wang, Z., Guo, Q.<br>
+          <strong>Tao, S.</strong>, Fang J.*, Zhao, X., Zhao, S., Shen, H., Hu, H., Tang, Z., Wang, Z., Guo, Q.<br>
           <em>Proceedings of the National Academy of Sciences</em>, 112:2281-2286 (2015).<br>
           <a href="https://doi.org/10.1073/pnas.1411748112">&#91;doi&#93;</a></p>
         </td>
